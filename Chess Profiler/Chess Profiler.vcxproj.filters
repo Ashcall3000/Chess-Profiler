@@ -27,6 +27,9 @@
     <ClCompile Include="CinReader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BoardHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Board.h">
@@ -39,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardHandler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
