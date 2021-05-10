@@ -143,13 +143,17 @@
     <ClCompile Include="BoardHandler.cpp" />
     <ClCompile Include="Chess Profiler.cpp" />
     <ClCompile Include="CinReader.cpp" />
+    <ClCompile Include="Data.cpp" />
     <ClCompile Include="Piece.cpp" />
+    <ClCompile Include="PieceHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Board.h" />
     <ClInclude Include="BoardHandler.h" />
     <ClInclude Include="CinReader.h" />
+    <ClInclude Include="Data.h" />
     <ClInclude Include="Piece.h" />
+    <ClInclude Include="PieceHandler.h" />
     <ClInclude Include="types.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
